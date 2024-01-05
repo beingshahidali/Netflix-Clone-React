@@ -34,6 +34,15 @@ I have built this project using the following tools & techniques:
 - Firebase.
 - VSCode.
 
+# Screenshots
+
+![Screenshot](https://raw.githubusercontent.com/beingshahidali/Netflix-Clone-React/main/public/screenshot/1.png)
+![Screenshot](https://raw.githubusercontent.com/beingshahidali/Netflix-Clone-React/main/public/screenshot/2.png)
+![Screenshot](https://raw.githubusercontent.com/beingshahidali/Netflix-Clone-React/main/public/screenshot/3.png)
+![Screenshot](https://raw.githubusercontent.com/beingshahidali/Netflix-Clone-React/main/public/screenshot/4.png)
+![Screenshot](https://raw.githubusercontent.com/beingshahidali/Netflix-Clone-React/main/public/screenshot/5.png)
+
+
 
 # How To Use
 
