@@ -37,6 +37,10 @@ I have built this project using the following tools & techniques:
 # Screenshots
 
 ![Screenshot](https://github.com/beingshahidali/Netflix-Clone-React/blob/main/public/screenshot/1.png)
+![Screenshot](https://github.com/beingshahidali/Netflix-Clone-React/blob/main/public/screenshot/2.png)
+![Screenshot](https://github.com/beingshahidali/Netflix-Clone-React/blob/main/public/screenshot/3.png)
+![Screenshot](https://github.com/beingshahidali/Netflix-Clone-React/blob/main/public/screenshot/4.png)
+![Screenshot](https://github.com/beingshahidali/Netflix-Clone-React/blob/main/public/screenshot/5.png)
 
 
 
